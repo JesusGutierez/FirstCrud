@@ -12,4 +12,4 @@ This is my first Api with Spring Boot and Java. ☕
 
 Now you can try it in localhost:8080/api/saludar, this will return "Hola mundo spring"
 
-Here you can look the endpoints -> <a href="https://documenter.getpostman.com/view/17451415/2s84DrR2GX" target="_blank">Spring Boot Mysql</a>
+Here you can look the endpoints -> <a href="https://documenter.getpostman.com/view/17451415/2s84DrR2GX" target="_blank">Endpoints Api Spring</a>
