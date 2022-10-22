@@ -11,3 +11,5 @@ This is my first Api with Spring Boot and Java. ☕
 3. Run project executing the main file "FirstCrudApplication.java" using main function.
 
 Now you can try it in localhost:8080/api/saludar, this will return "Hola mundo spring"
+
+Here you can look the endpoints -> <a href="https://documenter.getpostman.com/view/17451415/2s84DrR2GX" target="_blank">Spring Boot Mysql</a>
